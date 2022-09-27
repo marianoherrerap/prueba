@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<HTML>
+   <HEAD>
+      <TITLE>cuidando al planeta</TITLE>
+   </HEAD>
+   <BODY>
+    <h1>refrigerador</h1>
+    <h3>201 kwh</h3>
+    <p>recordar tener activado el ecomode en el refrigerador</p>
+   <h1>lavavajillas</h1>
+   <h3>288 kWh</h3>
+   <p>recordar cerrar la llave</p>
+   <h1>maquina de cafe</h1>
+   <h3>42kwh</h3>
+   <p>intentar hacer la mayor cantidad de cafe al mismo tiempo para no gastar mas liz en lo que resta del dia intentando hacerte otro cafe</p>
+   <h1>horno electrico</h1>
+   <h3>162  kWd</h3>
+    <p>calentar la mayor cantidad de comida en solo un ciclo</p>
+    <h1>television lcd</h1>
+    <h3>241 kWh</h3>
+    <p>no dejarla encendida mientras no la estas viendo</p>
+    <h1>bombillas</h1>
+    <h3>20 kWd</h3>
+    <p>no dejar encendidas mientras no se estan usando</p>
+    <h1>consola de videojuegos</h1>
+    <h3>69.5 kWh</h3>
+    <p>no dejar en modo de espera </p>
+    <h1>decodificador</h1>
+    <h3>277 kWh</h3>
+    <p>decodificar todo de una</p>
+    <h1>secadora</h1>
+    <h3>192 kWd</h3>
+    <p>encender la secadora en el m,aximo nivel de secamiento para acelerar el uso</p>
+    <h1>aspiradora</h1>
+    <h3>70 kWd</h3>
+    <p>aspirar por tiempos y lo mas rapido posible</p>
+
+    
+
+    
+   
+   </BODY>
+</HTML>
